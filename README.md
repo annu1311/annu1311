@@ -38,16 +38,16 @@ Here are a few things I’ve cooked up:
 
 ### 🎯 Goals for 2025
 
-- 🚀 Publish my first AI research paper  
-- 🧪 Build a full-stack ML project from scratch  
-- 🌍 Collaborate on open source and hackathons  
-- 📚 Dive deeper into DL, CV, and all things *fun-ctional*  
+-  Publish my first AI research paper  
+-  Build a full-stack ML project from scratch  
+-  Collaborate on open source and hackathons  
+-  Dive deeper into DL, CV, and all things *fun-ctional*  
 
 ---
 
 ### 😄 Fun Fact
 
-> I debug my life the same way I debug my code... with lots of snacks 🍫 and "print()" statements 😂
+> I debug my life the same way I debug my code... with lots of snacks and "print()" statements.
 
 ---
 
