@@ -5,10 +5,8 @@
 
 ### About Me
 
--  2nd Year BTech AIML Student @ NMIMS
--  Obsessed with Machine Learning, Optimization & Data Vibes
--  Currently researching: AI + Food (because yum ! )
--  Constantly building cool things and breaking them just to fix them better
+-  3rd Year BTech AIML Student @ NMIMS
+-  Interested in Data handling and Visualization, Generative AI & Data Vibes
 -  Addicted to caffeine & late-night coding marathons
 
 ---
@@ -31,7 +29,6 @@ Here are a few things I’ve cooked up:
 | Project | Description |
 |-----------|----------------|
 |  **Heart Disease Risk Predictor** | Built an ML model that predicts the risk of heart disease using patient data. |
-|  **AI + Food Research (WIP)** | Working on integrating AI/ML with food tech. |
 
 
 ---
@@ -39,7 +36,7 @@ Here are a few things I’ve cooked up:
 ### 🎯 Goals for 2025
 
 -  Publish my first AI research paper  
--  Build a full-stack ML project from scratch  
+-  Build a full-stack GenAI project from scratch  
 -  Collaborate on open source and hackathons  
 -  Dive deeper into DL, CV, and all things *fun-ctional*  
 
