@@ -29,7 +29,7 @@ Here are a few things I’ve cooked up:
 | Project | Description |
 |-----------|----------------|
 |  **Heart Disease Risk Predictor** | Built an ML model that predicts the risk of heart disease using patient data. |
-
+|  **Medicaid Power BI Dashboard** | Built a PowerBi dashboard for analysis of lack in medicare services in US (Data - CMS dataset). |
 
 ---
 
