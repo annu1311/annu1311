@@ -7,7 +7,7 @@
 
 -  3rd Year BTech AIML Student @ NMIMS
 -  Interested in Data handling and Visualization, Generative AI & Data Vibes
--  Addicted to caffeine & late-night coding marathons
+-  Addicted to caffeine & late-night studing
 
 ---
 
