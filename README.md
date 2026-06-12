@@ -5,7 +5,7 @@
 
 ### About Me
 
--  3rd Year BTech AIML Student @ NMIMS
+-  4th Year BTech AIML Student @ NMIMS
 -  Interested in Data handling and Visualization, Generative AI & Data Vibes
 -  Addicted to caffeine & late-night studing
 
@@ -35,6 +35,7 @@ Here are a few things I’ve cooked up:
 
 
 <p align="center">
-Let's connect & collaborate!  
+Let's connect & collaborate! 
+  anushkasharma131105@gmail.com
 🌐 annu1311 | 💬 Always open to ideas & collabs!
 </p>
